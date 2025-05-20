@@ -7,6 +7,6 @@ Temos como principal objetivo aqui catalogar todos os códigos e projetos feitos
 
 Ambos projetos realizados para a última nota da cadeira de Introdução à programação para Engenharia da Computação.
 
-## Dev_Tips
+## [Dev_Tips](https://github.com/mangabyte/dev_tips)
 - Algumas dicas de git/github e extensões úteis para quem está começando no mundo da programação.  
 - Feito por [William Torres](https://github.com/williamtorres1), idealizador da Mangabyte.
